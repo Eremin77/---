@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\chuhrov-mahmudov\Eremka77\bin\Debug\net6.0\Eremka77.exe
+C:\Users\user\Desktop\chuhrov-mahmudov\Eremka77\bin\Debug\net6.0\Eremka77.deps.json
+C:\Users\user\Desktop\chuhrov-mahmudov\Eremka77\bin\Debug\net6.0\Eremka77.runtimeconfig.json
+C:\Users\user\Desktop\chuhrov-mahmudov\Eremka77\bin\Debug\net6.0\Eremka77.dll
+C:\Users\user\Desktop\chuhrov-mahmudov\Eremka77\bin\Debug\net6.0\Eremka77.pdb
+C:\Users\user\Desktop\chuhrov-mahmudov\Eremka77\obj\Debug\net6.0\Eremka77.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\chuhrov-mahmudov\Eremka77\obj\Debug\net6.0\Eremka77.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\chuhrov-mahmudov\Eremka77\obj\Debug\net6.0\Eremka77.AssemblyInfo.cs
+C:\Users\user\Desktop\chuhrov-mahmudov\Eremka77\obj\Debug\net6.0\Eremka77.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\chuhrov-mahmudov\Eremka77\obj\Debug\net6.0\Eremka77.dll
+C:\Users\user\Desktop\chuhrov-mahmudov\Eremka77\obj\Debug\net6.0\refint\Eremka77.dll
+C:\Users\user\Desktop\chuhrov-mahmudov\Eremka77\obj\Debug\net6.0\Eremka77.pdb
+C:\Users\user\Desktop\chuhrov-mahmudov\Eremka77\obj\Debug\net6.0\Eremka77.genruntimeconfig.cache
+C:\Users\user\Desktop\chuhrov-mahmudov\Eremka77\obj\Debug\net6.0\ref\Eremka77.dll
